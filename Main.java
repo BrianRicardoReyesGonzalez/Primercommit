@@ -13,7 +13,7 @@ public class Main {
     }
 
     public static void operaciones(CCuenta cuenta1) {
-        cuenta1.retirar(2300);
-        cuenta1.ingresar(685);
+        cuenta1.retirar(5600);
+        cuenta1.ingresar(7700);
     }
 }
